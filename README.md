@@ -27,7 +27,6 @@ I build software where **AI meets real-world engineering** — full-stack produc
 🛰️  Previously: Satellite Quantum Key Distribution simulation (BB84 protocol)
 🏆  Active in hackathons — built career-guidance and fitness-coaching platforms from scratch
 🧩  I enjoy reframing competitive programming problems rather than grinding standard ones
-🔭  Into Vedic astrology as a personal side-interest (yes, really)
 ```
 
 ---
@@ -144,26 +143,6 @@ A cinematic personal portfolio with custom transitions and interactive 3D elemen
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeingAlmighty&theme=tokyo-night&hide_border=true" />
 
 </div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BeingAlmighty&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/BeingAlmighty/BeingAlmighty/output/github-contribution-grid-snake.svg" />
-</div>
-
-> Note: the snake graphic needs a one-time GitHub Action setup — see the note below the file.
-
----
 
 ### 🤝 Open To
 
